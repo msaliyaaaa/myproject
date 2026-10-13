@@ -1,0 +1,8 @@
+{
+  "name":"novograd2030-network",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Сетевая игра-практика Новоград 2030 — Прорыв дамбы",
+  "scripts":{"start":"node server.js"},
+  "engines":{"node":">=18"}
+}
